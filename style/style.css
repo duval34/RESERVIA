@@ -1,0 +1,429 @@
+.content-one{
+  /*  display: inline;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right:  60px;
+}
+.color{
+    color: #0065fc;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.content{
+    margin-right: 30px;
+    margin-top: 50px;
+    color: #0065fc;
+    margin-left: 30px;
+}
+.cont{
+    
+    margin: top 50px;
+}
+.contener{
+ display: inline-block;
+
+ margin-left: 140px;
+}
+.contener-two{
+    padding: 30px;
+}
+.formulaire{
+    display: inline-block; 
+    display: flex;
+    margin-top: 10px;
+    flex-direction: row;
+    
+   
+}
+.localisation{
+    background-color: #F2F2F2;
+    width: 26px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    display: flex;
+    justify-content: center;
+   align-items: center
+    
+   
+}
+.col{
+   background-color:  #0A6DFC;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: aliceblue;
+    
+}
+.Filtre{
+    display: flex;
+    flex-direction: row;
+     margin-top: 10px;
+}
+
+.fil{
+    
+  padding-left: 5px;  
+  padding-right: 5px;
+  border-left: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.position:hover{
+    background-color: aqua;
+    
+}
+.position{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgb(83, 82, 82);
+    border-radius: 15px;
+    border-left: none;
+    height:30px;
+    margin-right: 10px;
+}
+
+.icone{
+    background-color: #9ACFF9;
+    border-radius:40px;
+    height: 31px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   color: #0A6DFC;
+    
+}
+.strong{
+    margin-right: 20px;
+   margin-top: 18px;
+}
+
+.filtre-one{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.border-radius{
+    border-radius: 50%;
+    height: 19px;
+    width: 20px;
+    border: 1px solid rgb(83, 82, 82);
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contener-conten{
+    display: flex;
+    flex-direction: row;
+   /* justify-content: space-between;*/
+    
+}
+
+.conteners{
+    height: 130px;
+    width: 180px;
+    padding: 2px;
+    box-shadow: 0 0 5px ;
+    border-radius: 15px;
+    background-color: white;
+    margin: 10px;
+}
+.image{
+    width: 179px;
+    height: 70px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.content-waper{
+    background-color: #F2F2F2;
+   /* background-color: rgb(206, 203, 203);*/
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+.position-waper{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.position-wapers{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.populaire-waper{
+   background-color:  #F2F2F2;
+  /*  background-color:rgb(206, 203, 203) ;*/
+    margin-left: 40px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.contener-waper{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 90px;
+    width: 241px;
+    border-radius: 15px;
+    padding-left: 2px;
+    padding-top: 2px;
+    box-shadow: 0 0 5px;
+}
+.pictur{
+    width: 103px;
+    height: 87px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.space{
+    margin-right: 11px;
+}
+.contener-waper-one{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 90px;
+    width: 241px;
+    border-radius: 15px;
+    padding-left: 2px;
+    padding-top: 2px;
+    margin: 31px 0;
+    box-shadow: 0 0 5px;
+}
+
+.activité-marseille{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.conteners-un{
+    height: 290px;
+    width: 221px;
+     border-radius: 15px;
+    background-color: white;
+    margin-right: 20px;
+    box-shadow: 0 0 10px;
+}
+
+.image-un{
+    width: 221px;
+    height: 257px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.marge{
+    margin-left: 5px;
+}
+.conteners-two{
+    height: 131px;
+    width: 213px;
+     border-radius: 15px;
+    background-color: white;
+    margin-right: 20px;
+    box-shadow: 0 0 10px;
+    margin: 0 34px 23px 17px;
+}
+
+.image-two{
+    width: 213px;
+    height:99px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+ 
+.footer{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-bottom: 20px;
+ /*   background-color: rgb(206, 203, 203);*/
+    margin-top: 40px;
+    background-color: #F2F2F2;
+}
+
+.footer-waper-one{
+    margin-left: 186px;
+    margin-right: 186px;
+}
+
+.no-souligne{
+    text-decoration: none;
+   color: initial;
+}
+.direction{
+    flex-direction: none;
+}
+.couleur{
+    color: #0A6DFC;
+}
+.position-one{
+    display: flex;
+    flex-direction: row;
+}
+.position-one-waper{
+    display: flex;
+    flex-direction: row; 
+}
+
+
+
+@media ( 540px <= width <=1284px )  {
+    .contener{
+        
+        margin-left: 0;
+    }
+    
+}
+
+@media ( width <=1530px ) {
+    .contener{
+        
+        margin-left: 35px;
+       
+    } 
+} 
+/*
+@media ( width <=494px ){
+    
+        justify-content: space-between;
+    }
+
+    .populaire-waper{
+        margin-left: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+} */
+
+@media ( 432<= width <=1290 ){
+    .contener-conten{
+        display: flex;
+        flex-direction: column-reverse;
+       }
+}
+@media ( width <=431px ) {
+    .content-one{
+        /*  display: inline;*/
+          display: flex;
+          flex-direction: column;
+       /*   justify-content: space-between;*/
+       }
+       .booki{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       }
+       .contener{
+        margin-left: 0;
+       }
+
+       .contener-conten{
+        display: flex;
+        flex-direction: column-reverse;
+       }
+
+       .position-waper{
+        display: flex;
+        flex-direction: column;
+        }
+
+        .position-wapers{
+            display: flex;
+            flex-direction: column;
+        
+       }
+
+       .populaire-waper{
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 20px;
+       }
+
+       .activité-marseille{
+        display: flex;
+        flex-direction: column;
+       }
+
+       .footer{
+        display: flex;
+        flex-direction: column
+       }
+       .footer-waper-one{
+        margin-left: 0;
+        margin-right: 0;
+       }
+
+       .conteners{
+        width: 315px;
+        height: 184px;
+       }
+       .image{
+        width: 314px;
+        height: 107px;
+       }
+
+       .conteners-two{
+        width: 315px;
+        height: 184px;
+        margin-right: 0;
+        margin-left: 0;
+       }
+    .image-two{
+        width: 314px;
+        height: 107px;
+    }
+    .conteners-un{
+        width: 315px;
+        height: 184px; 
+        margin-right: 0;
+        margin-bottom: 20px;  
+    }
+    .image-un{
+        width: 314px;
+        height: 107px;
+    }
+    .content-waper{
+        background-color: white;
+        padding: 0;
+    }
+    .filtre-one{
+        display: flex;
+        flex-direction: column;
+    }
+    .Filtre{
+        display: flex;
+        flex-direction: column;  
+    }
+    .position-one-waper{
+        margin-top: 20px;
+     /*   display: flex;
+        flex-direction: column; */
+    }
+    .pictur{
+        width: 177px;
+        height: 161px;
+    }
+
+    .contener-waper{
+        width: 315px;
+        height: 164px;
+    }
+    .contener-waper-one{
+        width: 315px;
+        height: 164px;  
+    }
+
+}
+
